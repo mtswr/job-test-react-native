@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "proteintest",
+    "slug": "proteintest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.mhkce.proteintest"
+    }
+  },
+  "name": "proteintest"
+}
